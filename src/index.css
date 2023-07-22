@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+    @apply bg-base-100 bg-opacity-10 border-b-2 border-primary rounded-none 
+}
+
+.default {
+    @apply rounded-none bg-transparent
+}

@@ -1,0 +1,67 @@
+ [
+      {
+        "collegeImage": "https://crosscut.com/sites/default/files/styles/max_2000x2000/public/images/articles/freecollege_hero.jpg?itok=1eXTeobr",
+        "collegeName": "ABC University",
+        "admissionDates": "August 2023",
+        "events": [
+          "Orientation Day - September 1, 2023",
+          "Alumni Meet - October 15, 2023",
+          "Annual Cultural Fest - November 20, 2023"
+        ],
+        "researchHistory": [
+          "Award-winning research in Astrophysics",
+          "Breakthrough in Artificial Intelligence",
+          "Pioneering Environmental Studies"
+        ],
+        "sports": [
+          "Basketball",
+          "Soccer",
+          "Swimming",
+          "Tennis"
+        ]
+      },
+      {
+        "collegeImage": "https://crosscut.com/sites/default/files/styles/max_2000x2000/public/images/articles/freecollege_hero.jpg?itok=1eXTeobr",
+        "collegeName": "XYZ College",
+        "admissionDates": "July 2023",
+        "events": [
+          "Freshers' Welcome Party - September 5, 2023",
+          "Tech Expo - October 8, 2023",
+          "Cultural Extravaganza - November 18, 2023"
+        ],
+        "researchHistory": [
+          "Groundbreaking Research in Biotechnology",
+          "Innovative Solutions in Computer Science",
+          "Leadership in Social Sciences"
+        ],
+        "sports": [
+          "Cricket",
+          "Volleyball",
+          "Badminton",
+          "Track and Field"
+        ]
+      },
+      {
+        "collegeImage": "https://crosscut.com/sites/default/files/styles/max_2000x2000/public/images/articles/freecollege_hero.jpg?itok=1eXTeobr",
+        "collegeName": "PQR Institute",
+        "admissionDates": "September 2023",
+        "events": [
+          "Freshers' Orientation - October 3, 2023",
+          "Tech Symposium - November 12, 2023",
+          "Annual Sports Day - December 5, 2023"
+        ],
+        "researchHistory": [
+          "Cutting-edge Research in Nanotechnology",
+          "Advancements in Robotics",
+          "Sustainable Energy Initiatives"
+        ],
+        "sports": [
+          "Football",
+          "Hockey",
+          "Table Tennis",
+          "Athletics"
+        ]
+      }
+    ]
+
+  
