@@ -13,7 +13,7 @@ const Researches = () => {
   const [researchPapers, setResearchPapers] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/researches")
+    fetch("https://academic-avenue-server.vercel.app/researches")
       .then((res) => res.json())
       .then((data) => {
         setResearchPapers(data);

@@ -22,7 +22,7 @@ const Feedback = () => {
   const [feedbacks, setFeedbacks] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/feedbacks")
+    fetch("https://academic-avenue-server.vercel.app/feedbacks")
       .then((res) => res.json())
       .then((data) => {
         setFeedbacks(data);

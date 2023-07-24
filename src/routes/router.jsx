@@ -24,7 +24,7 @@ const router = createBrowserRouter([
         {
           path: "collegeDetails/:id",
           element: <DetailsPage></DetailsPage>,
-          loader: ({params}) => fetch(`http://localhost:5000/colleges?id=${params.id}`)
+          loader: ({params}) => fetch(`https://academic-avenue-server.vercel.app/colleges?id=${params.id}`)
 
         },
         {
@@ -46,7 +46,7 @@ const router = createBrowserRouter([
         {
           path: "/admission/:id",
           element: <AdmissionForm></AdmissionForm>,
-          loader: ({params}) => fetch(`http://localhost:5000/colleges?id=${params.id}`)
+          loader: ({params}) => fetch(`https://academic-avenue-server.vercel.app/colleges?id=${params.id}`)
         }
       ]
     },
