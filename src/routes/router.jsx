@@ -8,10 +8,13 @@ import Colleges from '../pages/Colleges';
 import Profile from "../pages/Profile";
 import AdmissionPage from "../pages/AdmissionPage";
 import AdmissionForm from "../components/ShareAble/AdmissionForm";
+import ErrorPage from "./ErrorPage";
+import MyColleges from "../pages/MyColleges";
 const router = createBrowserRouter([
     {
       path: "/",
       element: <HomeLayout></HomeLayout>,
+      errorElement: <ErrorPage></ErrorPage>,
       children: [
         {
           path: "/",
@@ -20,6 +23,10 @@ const router = createBrowserRouter([
         {
           path: "/colleges",
           element: <Colleges></Colleges>
+        },
+        {
+          path: "/my_colleges",
+          element: <MyColleges></MyColleges>
         },
         {
           path: "collegeDetails/:id",

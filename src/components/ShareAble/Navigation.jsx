@@ -87,10 +87,10 @@ const Navigation = () => {
           </li>
           <li>
             <NavLink
-              to="selected_classes"
+              to="/my_colleges"
               className={({ isActive }) => (isActive ? "active" : "default")}
             >
-              My Selected Colleges
+              My Colleges
             </NavLink>
           </li>
         </ul>
