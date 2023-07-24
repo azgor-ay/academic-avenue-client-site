@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Exploring Quantum Computing",
+    "collegeName": "Oxford University",
+    "prof": ["John Smith", "Emily Johnson", "Michael Chen"],
+    "link": "https://example.com/research-paper1.pdf",
+    "students": ["Sarah Lee", "David Wilson", "Sophia Smith"]
+  },
+  {
+    "title": "Advancements in Biomedical Engineering",
+    "collegeName": "Oxford University",
+    "prof": ["Sarah Lee", "David Wilson", "Sophia Smith"],
+    "link": "https://example.com/research-paper2.pdf",
+    "students": ["John Smith", "Emily Johnson", "Michael Chen"]
+  },
+  {
+    "title": "Innovations in Material Science",
+    "collegeName": "Oxford University",
+    "prof": ["Olivia Brown", "James Wilson", "Emma Davis"],
+    "link": "https://example.com/research-paper3.pdf",
+    "students": ["Alex Johnson", "Maria Adams", "Lisa Adams"]
+  },
+  {
+    "title": "Machine Learning Applications in Healthcare",
+    "collegeName": "Cambridge University",
+    "prof": ["Anna Chen", "Benjamin Lee", "Robert Brown"],
+    "link": "https://example.com/research-paper4.pdf",
+    "students": ["Jennifer Adams", "Daniel Miller", "Sophie Adams"]
+  },
+  {
+    "title": "Sustainable Urban Planning",
+    "collegeName": "Cambridge University",
+    "prof": ["Jennifer Adams", "Daniel Miller", "Sophie Adams"],
+    "link": "https://example.com/research-paper5.pdf",
+    "students": ["Anna Chen", "Benjamin Lee", "Robert Brown"]
+  },
+  {
+    "title": "Novel Drug Discovery",
+    "collegeName": "Cambridge University",
+    "prof": ["Samuel White", "Rachel Davis", "David Miller"],
+    "link": "https://example.com/research-paper6.pdf",
+    "students": ["Samuel White", "Rachel Davis", "David Miller"]
+  },
+  {
+    "title": "Advancements in Quantum Computing",
+    "collegeName": "Stanford University",
+    "prof": ["Alex Johnson", "Maria Adams", "Lisa Adams"],
+    "link": "https://example.com/research-paper7.pdf",
+    "students": ["John Smith", "Emily Johnson", "Michael Chen"]
+  },
+  {
+    "title": "Innovations in Clean Water Technology",
+    "collegeName": "Stanford University",
+    "prof": ["Alex Johnson", "Maria Adams", "Lisa Adams"],
+    "link": "https://example.com/research-paper8.pdf",
+    "students": ["Alex Johnson", "Maria Adams", "Lisa Adams"]
+  },
+  {
+    "title": "Digital Transformation in Business",
+    "collegeName": "Stanford University",
+    "prof": ["Olivia Brown", "James Wilson", "Emma Davis"],
+    "link": "https://example.com/research-paper9.pdf",
+    "students": ["Olivia Brown", "James Wilson", "Emma Davis"]
+  }
+]

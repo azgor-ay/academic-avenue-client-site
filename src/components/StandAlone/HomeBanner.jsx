@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const HomeBanner = () => {
   return (
     <div
@@ -14,7 +16,7 @@ const HomeBanner = () => {
           <p className="mb-5">
           Explore an extensive database of colleges, complete with admission information, program details, and application guidelines. Our user-friendly interface empowers you to effortlessly browse through colleges that align perfectly with your interests and goals.
           </p>
-          <button className="btn btn-primary">Start Exploring</button>
+          <Link to="/colleges"><button className="btn btn-primary">Start Exploring</button></Link>
         </div>
       </div>
     </div>

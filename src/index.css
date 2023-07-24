@@ -9,3 +9,7 @@
 .default {
     @apply rounded-none bg-transparent
 }
+
+.title{
+    @apply text-center font-bold text-3xl uppercase text-primary underline pb-12 pt-24
+}

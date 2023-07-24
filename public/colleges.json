@@ -1,67 +1,253 @@
- [
-      {
-        "collegeImage": "https://crosscut.com/sites/default/files/styles/max_2000x2000/public/images/articles/freecollege_hero.jpg?itok=1eXTeobr",
-        "collegeName": "ABC University",
-        "admissionDates": "August 2023",
-        "events": [
-          "Orientation Day - September 1, 2023",
-          "Alumni Meet - October 15, 2023",
-          "Annual Cultural Fest - November 20, 2023"
-        ],
-        "researchHistory": [
-          "Award-winning research in Astrophysics",
-          "Breakthrough in Artificial Intelligence",
-          "Pioneering Environmental Studies"
-        ],
-        "sports": [
-          "Basketball",
-          "Soccer",
-          "Swimming",
-          "Tennis"
-        ]
-      },
-      {
-        "collegeImage": "https://crosscut.com/sites/default/files/styles/max_2000x2000/public/images/articles/freecollege_hero.jpg?itok=1eXTeobr",
-        "collegeName": "XYZ College",
-        "admissionDates": "July 2023",
-        "events": [
-          "Freshers' Welcome Party - September 5, 2023",
-          "Tech Expo - October 8, 2023",
-          "Cultural Extravaganza - November 18, 2023"
-        ],
-        "researchHistory": [
-          "Groundbreaking Research in Biotechnology",
-          "Innovative Solutions in Computer Science",
-          "Leadership in Social Sciences"
-        ],
-        "sports": [
-          "Cricket",
-          "Volleyball",
-          "Badminton",
-          "Track and Field"
-        ]
-      },
-      {
-        "collegeImage": "https://crosscut.com/sites/default/files/styles/max_2000x2000/public/images/articles/freecollege_hero.jpg?itok=1eXTeobr",
-        "collegeName": "PQR Institute",
-        "admissionDates": "September 2023",
-        "events": [
-          "Freshers' Orientation - October 3, 2023",
-          "Tech Symposium - November 12, 2023",
-          "Annual Sports Day - December 5, 2023"
-        ],
-        "researchHistory": [
-          "Cutting-edge Research in Nanotechnology",
-          "Advancements in Robotics",
-          "Sustainable Energy Initiatives"
-        ],
-        "sports": [
-          "Football",
-          "Hockey",
-          "Table Tennis",
-          "Athletics"
-        ]
+  [
+    {
+      "collegeImage": "https://www.ox.ac.uk/sites/files/oxford/styles/ow_large_feature/s3/field/field_image_main/b_AllSoulsquad.jpg?itok=tTcH-5ix",
+      "collegeName": "Oxford University",
+      "admissionDates": [
+        "August 2023",
+        "December 2023"
+      ],
+      "events": [
+        "Orientation Day - September 1, 2023",
+        "Alumni Meet - October 15, 2023",
+        "Annual Cultural Fest - November 20, 2023",
+        "Science Exhibition - October 8, 2023",
+        "Career Fair - November 5, 2023",
+        "Tech Symposium - December 18, 2023"
+      ],
+      "researchHistory": [
+        "Award-winning research in Astrophysics",
+        "Breakthrough in Artificial Intelligence",
+        "Pioneering Environmental Studies",
+        "Advancements in Biomedical Engineering",
+        "Innovations in Material Science"
+      ],
+      "sports": [
+        "Basketball",
+        "Soccer",
+        "Swimming",
+        "Tennis",
+        "Volleyball",
+        "Badminton",
+        "Track and Field"
+      ],
+      "collegeDetails": {
+        "overview": "Oxford University is renowned for its strong academic programs and vibrant campus life...",
+        "admissionProcess": "To apply for admission, students must submit an online application...",
+        "eventsDetails": "The university hosts a range of exciting events throughout the year...",
+        "researchWorks": "Oxford University takes pride in its groundbreaking research initiatives...",
+        "sportsCategories": "Sports play a vital role in the university's culture, with a variety of teams and facilities..."
       }
-    ]
-
-  
+    },
+    {
+      "collegeImage": "https://i.guim.co.uk/img/media/77916b7cef46b737f9a8f66b38b9cf70e5d4def8/0_242_5247_3148/master/5247.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=a147a02fe4942a7ce3461e694208579b",
+      "collegeName": "Cambridge University",
+      "admissionDates": [
+        "July 2023",
+        "November 2023"
+      ],
+      "events": [
+        "Freshers' Welcome Party - September 5, 2023",
+        "Tech Expo - October 8, 2023",
+        "Cultural Extravaganza - November 18, 2023",
+        "Hackathon - September 25, 2023",
+        "Leadership Summit - October 30, 2023",
+        "Health and Wellness Fair - November 10, 2023"
+      ],
+      "researchHistory": [
+        "Groundbreaking Research in Biotechnology",
+        "Innovative Solutions in Computer Science",
+        "Leadership in Social Sciences",
+        "Advancements in Neuroscience",
+        "Sustainable Urban Planning"
+      ],
+      "sports": [
+        "Cricket",
+        "Volleyball",
+        "Badminton",
+        "Track and Field",
+        "Football",
+        "Hockey",
+        "Table Tennis",
+        "Athletics"
+      ],
+      "collegeDetails": {
+        "overview": "Cambridge University is dedicated to fostering a collaborative learning environment...",
+        "admissionProcess": "Applying to Cambridge University is a simple online process that requires...",
+        "eventsDetails": "The university hosts a series of engaging events, from academic conferences to cultural festivals...",
+        "researchWorks": "Research at Cambridge University is driven by innovation and real-world impact...",
+        "sportsCategories": "Sports enthusiasts at Cambridge University can join various teams and enjoy state-of-the-art facilities..."
+      }
+    },
+    {
+      "collegeImage": "https://www.tclf.org/sites/default/files/styles/crop_2000x700/public/thumbnails/image/CA_Stanford_StanfordUniversity_courtesyWikimediaCommons_2011_005_Hero.jpg?itok=B8YAapxD",
+      "collegeName": "Stanford University",
+      "admissionDates": [
+        "September 2023",
+        "January 2024"
+      ],
+      "events": [
+        "Freshers' Orientation - October 3, 2023",
+        "Tech Symposium - November 12, 2023",
+        "Annual Sports Day - December 5, 2023",
+        "Entrepreneurship Summit - October 20, 2023",
+        "Art Exhibition - November 26, 2023",
+        "Literary Fest - December 18, 2023"
+      ],
+      "researchHistory": [
+        "Cutting-edge Research in Nanotechnology",
+        "Advancements in Robotics",
+        "Sustainable Energy Initiatives",
+        "Innovations in Clean Water Technology",
+        "Digital Transformation in Business"
+      ],
+      "sports": [
+        "Football",
+        "Hockey",
+        "Table Tennis",
+        "Athletics",
+        "Basketball",
+        "Soccer",
+        "Swimming",
+        "Tennis"
+      ],
+      "collegeDetails": {
+        "overview": "Stanford University stands as a beacon of academic excellence, offering top-notch programs...",
+        "admissionProcess": "Prospective students can submit their applications online, along with supporting documents...",
+        "eventsDetails": "The university hosts an array of events that foster creativity and knowledge-sharing...",
+        "researchWorks": "Stanford University leads the way in cutting-edge research that impacts society and industry...",
+        "sportsCategories": "Sports form an integral part of campus life, with a wide range of sports clubs and facilities..."
+      }
+    },
+    {
+      "collegeImage": "https://images.collegedunia.com/public/college_data/images/studyabroad/appImage/college_1090_29-15:00_o-HARVARD-UNIVERSITY-BUILDING-facebook.jpeg",
+      "collegeName": "Harvard University",
+      "admissionDates": [
+        "August 2023",
+        "December 2023"
+      ],
+      "events": [
+        "Orientation Day - September 1, 2023",
+        "Alumni Meet - October 15, 2023",
+        "Annual Cultural Fest - November 20, 2023",
+        "Science Exhibition - October 8, 2023",
+        "Career Fair - November 5, 2023",
+        "Tech Symposium - December 18, 2023"
+      ],
+      "researchHistory": [
+        "Award-winning research in Astrophysics",
+        "Breakthrough in Artificial Intelligence",
+        "Pioneering Environmental Studies",
+        "Advancements in Biomedical Engineering",
+        "Innovations in Material Science",
+        "Exploring Quantum Computing"
+      ],
+      "sports": [
+        "Basketball",
+        "Soccer",
+        "Swimming",
+        "Tennis",
+        "Volleyball",
+        "Badminton",
+        "Track and Field"
+      ],
+      "collegeDetails": {
+        "overview": "Harvard University is renowned for its strong academic programs and vibrant campus life...",
+        "admissionProcess": "To apply for admission, students must submit an online application...",
+        "eventsDetails": "The university hosts a range of exciting events throughout the year...",
+        "researchWorks": "Harvard University takes pride in its groundbreaking research initiatives...",
+        "sportsCategories": "Sports play a vital role in the university's culture, with a variety of teams and facilities..."
+      }
+    },
+    {
+      "collegeImage": "https://www.google.com/search?sxsrf=AB5stBgakQFLhSHwURMMt2sL42gzMVHvzA:1690185292231&q=massachusetts+institute+of+technology+(mit)&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjtwcrv7qaAAxWmzTgGHTBZBO8Q0pQJegQIDxAB&biw=1366&bih=617&dpr=1#imgrc=NefukwYls_pvqM",
+      "collegeName": "Massachusetts Institute of Technology (MIT)",
+      "admissionDates": [
+        "July 2023",
+        "November 2023",
+        "March 2024"
+      ],
+      "events": [
+        "Freshers' Welcome Party - September 5, 2023",
+        "Tech Expo - October 8, 2023",
+        "Cultural Extravaganza - November 18, 2023",
+        "Hackathon - September 25, 2023",
+        "Leadership Summit - October 30, 2023",
+        "Health and Wellness Fair - November 10, 2023",
+        "Coding Competition - March 15, 2024"
+      ],
+      "researchHistory": [
+        "Groundbreaking Research in Biotechnology",
+        "Innovative Solutions in Computer Science",
+        "Leadership in Social Sciences",
+        "Advancements in Neuroscience",
+        "Sustainable Urban Planning",
+        "Novel Drug Discovery"
+      ],
+      "sports": [
+        "Cricket",
+        "Volleyball",
+        "Badminton",
+        "Track and Field",
+        "Football",
+        "Hockey",
+        "Table Tennis",
+        "Athletics",
+        "Baseball",
+        "Softball",
+        "Rugby"
+      ],
+      "collegeDetails": {
+        "overview": "MIT is dedicated to fostering a collaborative learning environment...",
+        "admissionProcess": "Applying to MIT is a simple online process that requires...",
+        "eventsDetails": "The college hosts a series of engaging events, from academic conferences to cultural festivals...",
+        "researchWorks": "Research at MIT is driven by innovation and real-world impact...",
+        "sportsCategories": "Sports enthusiasts at MIT can join various teams and enjoy state-of-the-art facilities..."
+      }
+    },
+    {
+      "collegeImage": "https://mediaim.expedia.com/destination/1/adca140aaae3dfe2d27069d109d05ce7.jpg",
+      "collegeName": "Yale University",
+      "admissionDates": [
+        "September 2023",
+        "January 2024",
+        "May 2024"
+      ],
+      "events": [
+        "Freshers' Orientation - October 3, 2023",
+        "Tech Symposium - November 12, 2023",
+        "Annual Sports Day - December 5, 2023",
+        "Entrepreneurship Summit - October 20, 2023",
+        "Art Exhibition - November 26, 2023",
+        "Literary Fest - December 18, 2023",
+        "Innovation Workshop - May 1, 2024"
+      ],
+      "researchHistory": [
+        "Cutting-edge Research in Nanotechnology",
+        "Advancements in Robotics",
+        "Sustainable Energy Initiatives",
+        "Innovations in Clean Water Technology",
+        "Digital Transformation in Business",
+        "Advancements in Quantum Computing"
+      ],
+      "sports": [
+        "Football",
+        "Hockey",
+        "Table Tennis",
+        "Athletics",
+        "Basketball",
+        "Soccer",
+        "Swimming",
+        "Tennis",
+        "Cricket",
+        "Volleyball",
+        "Badminton"
+      ],
+      "collegeDetails": {
+        "overview": "Yale University stands as a beacon of academic excellence, offering top-notch programs...",
+        "admissionProcess": "Prospective students can submit their applications online, along with supporting documents...",
+        "eventsDetails": "The university hosts an array of events that foster creativity and knowledge-sharing...",
+        "researchWorks": "Yale University leads the way in cutting-edge research that impacts society and industry...",
+        "sportsCategories": "Sports form an integral part of campus life, with a wide range of sports clubs and facilities..."
+      }
+    }
+  ]
